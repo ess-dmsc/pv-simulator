@@ -72,8 +72,15 @@ Replace these placeholders with your actual configurations based on your project
 To start the simulation and monitoring system, use the following command:
 
 ```bash
-python src/main.py --json "/path/to/your/odin.json" -t "/path/to/your/odin_targets.json" -c "/path/to/your/server_config.json" -l INFO
+python src/main.py --json "/path/to/your/INSTRUMENT.json" -t "/path/to/your/INSTRUMENT_targets.json" -c "/path/to/your/server_config.json" -l INFO
 ```
+
+an example:
+
+```bash
+python src/main.py --json "/home/jonas/code/nexus-json-templates/odin/odin.json" -t "/home/jonas/code/pv_simulator/src/ioc_config/odin_targets.json" -c "/home/jonas/code/pv_simulator/src/ioc_config/server_config.json" -l INFO
+```
+
 
 For monitoring PVs with the provided listener utility, ensure you have configured it to match your target setup. It's currently hardcoded in the `listener.py` file. Then run the listener with the following command:
 
