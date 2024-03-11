@@ -5,6 +5,17 @@
 This project is designed to simulate and monitor Process Variables (PVs) within an EPICS environment using Python and the P4P library. It provides a framework for configuring and simulating PVs.
 The system is configurable through JSON files, allowing for customization of device behaviors and some PVA server settings.
 
+
+### Concept
+
+The idea of the program is to read the NeXus JSON and from that be able to extract all f144 modules (potentially other modules) 
+and create PVs for them. The PVs will then be added to the `INSTRUMENT_targets.json` file if they are missing and in that file 
+you can configure the target value, noise and update period for each PV. The program will then simulate the PVs based on the
+configuration in the `INSTRUMENT_targets.json` file. 
+
+This should make it easy to simulate PVs for testing and development purposes.
+
+
 ## WARNING
 
 ### Do not use this if the real PVs are in use. It might cause confusion and/or damage to the system!
@@ -69,3 +80,10 @@ For monitoring PVs with the provided listener utility, ensure you have configure
 ```bash
 python src/listener.py
 ```
+
+## TODO
+
+- [ ] Add support for other modules than f144. (TDCT, se00)
+- [ ] Add proper filtering for the source_names to make sure there are no duplicates.
+- [ ] Add online checks for the PVs to make sure they are not already in use, kill the thread if they are.
+- [ ] Add a simple filter configuration for the PVs to make it easier to filter out already deployed real PVs.
