@@ -1,0 +1,6 @@
+p4p
+# confluent kafka and streaming data types is not strictly needed for epics but there is some kafka code in the repo as well
+confluent-kafka
+ess-streaming-data-types
+argparse
+numpy
