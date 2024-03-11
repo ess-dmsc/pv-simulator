@@ -1,0 +1,62 @@
+{
+  "source": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:KRDG0": {
+    "target_value": 300,
+    "std_dev": 0.1
+  },
+  "YMIR-SEE:SE-LS336-004:KRDG1": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:KRDG2": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:KRDG3": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:HTR2": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SRDG0": {
+    "target_value": 300,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SRDG1": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SRDG2": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SRDG3": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SETP_S1": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SETP_S2": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SETP_S3": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SETP_S4": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:HTR1": {
+    "target_value": null,
+    "std_dev": null
+  }
+}
