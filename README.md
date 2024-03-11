@@ -5,6 +5,11 @@
 This project is designed to simulate and monitor Process Variables (PVs) within an EPICS environment using Python and the P4P library. It provides a framework for configuring and simulating PVs.
 The system is configurable through JSON files, allowing for customization of device behaviors and some PVA server settings.
 
+## WARNING
+
+### Do not use this if the real PVs are in use. It might cause confusion and/or damage to the system!
+
+
 ## Features
 
 - **PV Simulation:** Dynamically simulate PV behaviors based on configurable JSON templates.
