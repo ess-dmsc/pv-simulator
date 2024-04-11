@@ -128,6 +128,9 @@ def build_config(json_obj) -> Dict:
         if module["module"] not in ["f144", "tdct"]:
             continue
 
+        if not module["config"]["source"].startswith("SIM_"):
+            continue
+
         config[module["path"]] = {
             "module": module["module"],
             "source": module["config"]["source"]
