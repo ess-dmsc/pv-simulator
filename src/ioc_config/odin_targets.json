@@ -1,152 +1,142 @@
 {
-  "odin:instrument:foc1:rotation_speed": {
+  "SIM_odin:instrument:foc1:rotation_speed": {
     "target_value": 14,
-    "std_dev": 0.1,
-    "update_period": 0.0714
+    "std_dev": 0.01
   },
-  "odin:instrument:foc1:delay": {
-    "target_value": 12500,
-    "std_dev": 500
+  "SIM_odin:instrument:foc1:delay": {
+    "target_value": 517147,
+    "std_dev": 2671
   },
-  "odin:instrument:bpc1:rotation_speed": {
+  "SIM_odin:instrument:bpc1:rotation_speed": {
     "target_value": 14,
-    "std_dev": 0.1,
-    "update_period": 0.0714
+    "std_dev": 0.01
   },
-  "odin:instrument:bpc1:delay": {
-    "target_value": 64100,
-    "std_dev": 600
+  "SIM_odin:instrument:bpc1:delay": {
+    "target_value": 134513,
+    "std_dev": 7162
   },
-  "odin:instrument:t0:rotation_speed": {
+  "SIM_odin:instrument:t0:rotation_speed": {
     "target_value": 14,
-    "std_dev": 0.1,
-    "update_period": 0.0714
+    "std_dev": 0.01
   },
-  "odin:instrument:t0:delay": {
-    "target_value": 12300,
-    "std_dev": 750
+  "SIM_odin:instrument:t0:delay": {
+    "target_value": 1346134,
+    "std_dev": 1762
   },
-  "odin:instrument:foc2:rotation_speed": {
+  "SIM_odin:instrument:foc2:rotation_speed": {
     "target_value": 28,
-    "std_dev": 0.1,
-    "update_period": 0.0714
+    "std_dev": 0.01
   },
-  "odin:instrument:foc2:delay": {
-    "target_value": 64300,
-    "std_dev": 500
+  "SIM_odin:instrument:foc2:delay": {
+    "target_value": 54632,
+    "std_dev": 2617
   },
-  "odin:instrument:bpc2:rotation_speed": {
+  "SIM_odin:instrument:bpc2:rotation_speed": {
     "target_value": 28,
-    "std_dev": 0.1,
-    "update_period": 0.0714
+    "std_dev": 0.01
   },
-  "odin:instrument:foc3:rotation_speed": {
+  "SIM_odin:instrument:foc3:rotation_speed": {
     "target_value": 14,
-    "std_dev": 0.1,
-    "update_period": 0.0714
+    "std_dev": 0.01
   },
-  "odin:instrument:foc3:delay": {
-    "target_value": 12500,
-    "std_dev": 500
+  "SIM_odin:instrument:foc3:delay": {
+    "target_value": 23461,
+    "std_dev": 184
   },
-  "odin:instrument:foc4:rotation_speed": {
+  "SIM_odin:instrument:foc4:rotation_speed": {
     "target_value": 14,
-    "std_dev": 0.1,
-    "update_period": 0.0714
+    "std_dev": 0.01
   },
-  "odin:instrument:foc4:delay": {
-    "target_value": 23500,
-    "std_dev": 500
+  "SIM_odin:instrument:foc4:delay": {
+    "target_value": 6245624,
+    "std_dev": 3291
   },
-  "odin:instrument:foc5:rotation_speed": {
-    "target_value": 7,
-    "std_dev": 0.1,
-    "update_period": 0.0714
-  },
-  "odin:instrument:foc5:delay": {
-    "target_value": 53200,
-    "std_dev": 500
-  },
-  "odin:instrument:source:current": {
-    "target_value": 10,
-    "std_dev": 1
-  },
-  "odin:instrument:source:energy": {
-    "target_value": 20000000,
-    "std_dev": 200
-  },
-  "odin:instrument:source:power": {
-    "target_value": 1273901,
-    "std_dev": 150
-  },
-  "odin:instrument:wfm1:rotation_speed": {
+  "SIM_odin:instrument:foc5:rotation_speed": {
     "target_value": 28,
-    "std_dev": 0.1,
-    "update_period": 0.0714
+    "std_dev": 0.01
   },
-  "odin:instrument:wfm1:delay": {
-    "target_value": 20100,
-    "std_dev": 500
+  "SIM_odin:instrument:foc5:delay": {
+    "target_value": 123561,
+    "std_dev": 2837
   },
-  "odin:wfm1:transformations:translation1": {
-    "target_value": 25,
-    "std_dev": 0.001
+  "SIM_odin:instrument:source:current": {
+    "target_value": 7500,
+    "std_dev": 10
   },
-  "odin:instrument:wfm2:rotation_speed": {
-    "target_value": 28,
-    "std_dev": 0.1,
-    "update_period": 0.0714
+  "SIM_odin:instrument:source:energy": {
+    "target_value": 9000,
+    "std_dev": 1000
   },
-  "odin:instrument:wfm2:delay": {
-    "target_value": 12000,
-    "std_dev": 500
+  "SIM_odin:instrument:source:power": {
+    "target_value": 5000000,
+    "std_dev": 1000
   },
-  "odin:wfm2:transformations:translation1": {
+  "SIM_odin:instrument:wfm1:rotation_speed": {
+    "target_value": 14,
+    "std_dev": 0.01
+  },
+  "SIM_odin:instrument:wfm1:delay": {
+    "target_value": 436216,
+    "std_dev": 18276
+  },
+  "SIM_odin:wfm1:transformations:translation1": {
     "target_value": 5,
     "std_dev": 0.001
   },
-  "odin:event_mode_detectors:timepix3:x_pixel_size": {
-    "target_value": 40,
+  "SIM_odin:instrument:wfm2:rotation_speed": {
+    "target_value": 14,
+    "std_dev": 0.01
+  },
+  "SIM_odin:instrument:wfm2:delay": {
+    "target_value": 3461346,
+    "std_dev": 1827
+  },
+  "SIM_odin:wfm2:transformations:translation1": {
+    "target_value": 2,
+    "std_dev": 0.001
+  },
+  "SIM_odin:event_mode_detectors:timepix3:x_pixel_size": {
+    "target_value": 1,
     "std_dev": null
   },
-  "odin:event_mode_detectors:timepix3:y_pixel_size": {
-    "target_value": 10,
+  "SIM_odin:event_mode_detectors:timepix3:y_pixel_size": {
+    "target_value": 1,
     "std_dev": null
   },
-  "odin:histogram_mode_detectors:orca:image_key": {
+  "SIM_odin:histogram_mode_detectors:orca:image_key": {
     "target_value": 0,
     "std_dev": null
   },
-  "odin:histogram_mode_detectors:orca:x_pixel_size": {
-    "target_value": 10,
+  "SIM_odin:histogram_mode_detectors:orca:x_pixel_size": {
+    "target_value": 1,
     "std_dev": null
   },
-  "odin:histogram_mode_detectors:orca:y_pixel_size": {
-    "target_value": 10,
+  "SIM_odin:histogram_mode_detectors:orca:y_pixel_size": {
+    "target_value": 1,
     "std_dev": null
   },
-  "odin:instrument:magnetic_guide_field:guide_current": {
-    "target_value": 22,
+  "SIM_odin:instrument:magnetic_guide_field:guide_current": {
+    "target_value": 126,
+    "std_dev": 2
+  },
+  "SIM_odin:instrument:slit1:x_gap": {
+    "target_value": 2.4,
     "std_dev": 0.001
   },
-  "odin:instrument:slit1:x_gap": {
-    "target_value": 6.42,
-    "std_dev": 0.0001
+  "SIM_odin:instrument:slit1:y_gap": {
+    "target_value": 5.7,
+    "std_dev": 0.001
   },
-  "odin:instrument:slit1:y_gap": {
-    "target_value": 1.54,
-    "std_dev": 0.0001
+  "SIM_odin:instrument:slit2:x_gap": {
+    "target_value": 1.4,
+    "std_dev": 0.001
   },
-  "odin:instrument:slit2:x_gap": {
-    "target_value": 3.234,
-    "std_dev": 0.0001
+  "SIM_odin:instrument:slit2:y_gap": {
+    "target_value": 7.4,
+    "std_dev": 0.001
   },
-  "odin:instrument:slit2:y_gap": {
-    "target_value": 1.53,
-    "std_dev": 0.0001
-  },
-  "odin:entry:sample:rotation_angle": {
-    "target_value": 98,
-    "std_dev": 0.0001
+  "SIM_odin:entry:sample:rotation_angle": {
+    "target_value": 45,
+    "std_dev": null
   }
 }
