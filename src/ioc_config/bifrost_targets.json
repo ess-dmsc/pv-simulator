@@ -1,62 +1,54 @@
 {
-  "source": {
-    "target_value": null,
-    "std_dev": null
+  "SIM_bifrost:instrument:pulse_shaping_chopper_1:rotation_speed": {
+    "target_value": 14,
+    "std_dev": 0.001
   },
-  "YMIR-SEE:SE-LS336-004:KRDG0": {
-    "target_value": 300,
-    "std_dev": 0.1
+  "SIM_bifrost:instrument:pulse_shaping_chopper_1:delay": {
+    "target_value": 100000,
+    "std_dev": 200
   },
-  "YMIR-SEE:SE-LS336-004:KRDG1": {
-    "target_value": null,
-    "std_dev": null
+  "SIM_bifrost:instrument:frame_overlap_chopper_1:rotation_speed": {
+    "target_value": 14,
+    "std_dev": 0.001
   },
-  "YMIR-SEE:SE-LS336-004:KRDG2": {
-    "target_value": null,
-    "std_dev": null
+  "SIM_bifrost:instrument:frame_overlap_chopper_1:delay": {
+    "target_value": 200000,
+    "std_dev": 100
   },
-  "YMIR-SEE:SE-LS336-004:KRDG3": {
-    "target_value": null,
-    "std_dev": null
+  "SIM_bifrost:instrument:frame_overlap_chopper_2:delay": {
+    "target_value": 150000,
+    "std_dev": 150
   },
-  "YMIR-SEE:SE-LS336-004:HTR2": {
-    "target_value": null,
-    "std_dev": null
+  "SIM_bifrost:instrument:frame_overlap_chopper_2:rotation_speed": {
+    "target_value": 28,
+    "std_dev": 0.001
   },
-  "YMIR-SEE:SE-LS336-004:SRDG0": {
-    "target_value": 300,
-    "std_dev": null
+  "SIM_bifrost:instrument:bandwidth_chopper_1:delay": {
+    "target_value": 200000,
+    "std_dev": 150
   },
-  "YMIR-SEE:SE-LS336-004:SRDG1": {
-    "target_value": null,
-    "std_dev": null
+  "SIM_bifrost:instrument:bandwidth_chopper_1:rotation_speed": {
+    "target_value": 14,
+    "std_dev": 0.001
   },
-  "YMIR-SEE:SE-LS336-004:SRDG2": {
-    "target_value": null,
-    "std_dev": null
+  "SIM_bifrost:instrument:pulse_shaping_chopper_2:rotation_speed": {
+    "target_value": 28,
+    "std_dev": 0.001
   },
-  "YMIR-SEE:SE-LS336-004:SRDG3": {
-    "target_value": null,
-    "std_dev": null
+  "SIM_bifrost:instrument:pulse_shaping_chopper_2:delay": {
+    "target_value": 100000,
+    "std_dev": 500
   },
-  "YMIR-SEE:SE-LS336-004:SETP_S1": {
-    "target_value": null,
-    "std_dev": null
+  "SIM_bifrost:instrument:bandwidth_chopper_2:rotation_speed": {
+    "target_value": 14,
+    "std_dev": 0.001
   },
-  "YMIR-SEE:SE-LS336-004:SETP_S2": {
-    "target_value": null,
-    "std_dev": null
+  "SIM_bifrost:instrument:bandwidth_chopper_2:delay": {
+    "target_value": 200000,
+    "std_dev": 150
   },
-  "YMIR-SEE:SE-LS336-004:SETP_S3": {
-    "target_value": null,
-    "std_dev": null
-  },
-  "YMIR-SEE:SE-LS336-004:SETP_S4": {
-    "target_value": null,
-    "std_dev": null
-  },
-  "YMIR-SEE:SE-LS336-004:HTR1": {
-    "target_value": null,
+  "SIM_bifrost:bifrost_detector:transformations:rotation_y_axis": {
+    "target_value": 90,
     "std_dev": null
   }
 }
