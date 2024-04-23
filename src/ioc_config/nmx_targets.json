@@ -1,0 +1,166 @@
+{
+  "SIM_nmx:instrument:WLS-1_chopper:delay": {
+    "target_value": 523452,
+    "std_dev": 4235
+  },
+  "SIM_nmx:instrument:WLS-1_chopper:rotation_speed": {
+    "target_value": 14,
+    "std_dev": 0.01
+  },
+  "SIM_nmx:instrument:WLS-2A_chopper:rotation_speed": {
+    "target_value": 14,
+    "std_dev": 0.01
+  },
+  "SIM_nmx:instrument:WLS-2A_chopper:delay": {
+    "target_value": 23452,
+    "std_dev": 342
+  },
+  "SIM_nmx:instrument:WLS-2B_chopper:rotation_speed": {
+    "target_value": 14,
+    "std_dev": 0.01
+  },
+  "SIM_nmx:instrument:WLS-2B_chopper:top_dead_center": {
+    "target_value": 23455,
+    "std_dev": 2342
+  },
+  "SIM_nmx:instrument:WLS-2B_chopper:delay": {
+    "target_value": 532452,
+    "std_dev": 42345
+  },
+  "SIM_nmx:instrument:slit_1:x_gap": {
+    "target_value": 3.5,
+    "std_dev": 0.001
+  },
+  "SIM_nmx:instrument:slit_1:y_gap": {
+    "target_value": 2.3,
+    "std_dev": 0.001
+  },
+  "SIM_nmx:instrument:slit_2:x_gap": {
+    "target_value": 5.3,
+    "std_dev": 0.001
+  },
+  "SIM_nmx:instrument:slit_2:y_gap": {
+    "target_value": 6.3,
+    "std_dev": 0.001
+  },
+  "SIM_nmx:pinhole_exchanger:transformations:translation_x": {
+    "target_value": 4,
+    "std_dev": null
+  },
+  "SIM_nmx:pinhole_exchanger:transformations:translation_y": {
+    "target_value": 6,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_0:transformations:stageZ": {
+    "target_value": 1.2,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_0:transformations:axis1": {
+    "target_value": 4.3,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_0:transformations:axis2": {
+    "target_value": 1.2,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_0:transformations:axis3": {
+    "target_value": 1.9,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_0:transformations:axis4": {
+    "target_value": 0.3,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_0:transformations:axis5": {
+    "target_value": 1.2,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_0:transformations:axis6": {
+    "target_value": 0.6,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_1:transformations:stageZ": {
+    "target_value": 0.5,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_1:transformations:axis1": {
+    "target_value": 1.1,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_1:transformations:axis2": {
+    "target_value": 2.5,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_1:transformations:axis3": {
+    "target_value": 1.3,
+    "std_dev": 0.01
+  },
+  "SIM_nmx:detector_panel_1:transformations:axis4": {
+    "target_value": 4.1,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_1:transformations:axis5": {
+    "target_value": 1.3,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_1:transformations:axis6": {
+    "target_value": 2.1,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_2:transformations:stageZ": {
+    "target_value": 3.1,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_2:transformations:axis1": {
+    "target_value": 2.2,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_2:transformations:axis2": {
+    "target_value": 2.3,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_2:transformations:axis3": {
+    "target_value": 2.1,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_2:transformations:axis4": {
+    "target_value": 1.5,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_2:transformations:axis5": {
+    "target_value": 1.3,
+    "std_dev": null
+  },
+  "SIM_nmx:detector_panel_2:transformations:axis6": {
+    "target_value": 2.1,
+    "std_dev": null
+  },
+  "SIM_nmx:entry:sample:temperature": {
+    "target_value": 315,
+    "std_dev": 0.1
+  },
+  "SIM_nmx:sample:transformations:axis1": {
+    "target_value": 1.1,
+    "std_dev": null
+  },
+  "SIM_nmx:sample:transformations:axis2": {
+    "target_value": 2.5,
+    "std_dev": null
+  },
+  "SIM_nmx:sample:transformations:axis3": {
+    "target_value": 1.2,
+    "std_dev": null
+  },
+  "SIM_nmx:sample:transformations:axis4": {
+    "target_value": 2.3,
+    "std_dev": null
+  },
+  "SIM_nmx:sample:transformations:axis5": {
+    "target_value": 3.1,
+    "std_dev": null
+  },
+  "SIM_nmx:sample:transformations:axis6": {
+    "target_value": 2.5,
+    "std_dev": 0.01
+  }
+}

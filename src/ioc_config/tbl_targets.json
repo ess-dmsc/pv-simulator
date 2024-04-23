@@ -1,0 +1,30 @@
+{
+  "SIM_tbl:multiblade_detector:transformations:COM": {
+    "target_value": 2,
+    "std_dev": null
+  },
+  "SIM_tbl:multiblade_detector:transformations:COZ": {
+    "target_value": 5,
+    "std_dev": null
+  },
+  "SIM_tbl:instrument:source_chopper_1:delay": {
+    "target_value": 672811,
+    "std_dev": 2718
+  },
+  "SIM_tbl:instrument:source_chopper_2:delay": {
+    "target_value": 29958,
+    "std_dev": 1920
+  },
+  "SIM_tbl:polarizer:transformations:translation1": {
+    "target_value": 1,
+    "std_dev": null
+  },
+  "SIM_tbl:sample:transformations:SOM": {
+    "target_value": 2.5,
+    "std_dev": null
+  },
+  "SIM_tbl:sample:transformations:SOZ": {
+    "target_value": 1.4,
+    "std_dev": null
+  }
+}

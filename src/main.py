@@ -95,6 +95,8 @@ def main():
     for thread in threads:
         thread.start()
 
+    #  Make sure that the server is started before continuing
+    time.sleep(0.5)
 
     logger.info("EPICS PVA server started")
     logger.info(f"Configuration for server: {server.get_context().conf()}")
