@@ -1,4 +1,4 @@
-FROM python:3.12
+FROM python:3.12-slim-bookworm
 
 ARG HTTP_PROXY
 ARG HTTPS_PROXY
@@ -15,4 +15,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-ENTRYPOINT [ "python", "src/main.py" ]
+ENTRYPOINT [ "python" ]
+CMD ["src/main.py"]
