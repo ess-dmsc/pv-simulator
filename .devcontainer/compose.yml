@@ -1,0 +1,14 @@
+services:
+  pv-simulator:
+    build:
+      context: ..
+      dockerfile: Dockerfile
+      args:
+          HTTP_PROXY: http://10.100.1.2:8123
+          HTTPS_PROXY: http://10.100.1.2:8123
+          NO_PROXY: localhost,127.0.0.1,10.100.0.21,conan.dm.esss.dk,10.100.200.255,smartproxydmscdaq.esss.dk,puppetdb6prod.esss.dk,ymir-pvsimulator.daq.esss.dk,ymir-pvsimulator
+    entrypoint: [ "tail", "-f", "/dev/null" ]
+    volumes:
+      - ..:/workspace:cached
+      - /users/milosznowak/repos/nexus-json-templates:/mnt/templates:ro
+      - ../output:/mnt/output
