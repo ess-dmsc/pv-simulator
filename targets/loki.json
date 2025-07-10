@@ -1,0 +1,318 @@
+{
+  "LOKI-ChpSy1:Chop-BWC-101:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ChpSy1:Chop-BWC-101:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ChpSy1:Chop-BWC-101:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ChpSy3:Chop-SFOC-101:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ChpSy3:Chop-SFOC-101:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ChpSy3:Chop-SFOC-101:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ChpSy1:Chop-BWC-102:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ChpSy1:Chop-BWC-102:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ChpSy1:Chop-BWC-102:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ChpSy3:Chop-SFOC-102:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ChpSy3:Chop-SFOC-102:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ChpSy3:Chop-SFOC-102:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "source": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColCh1:MC-LinY-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColCh1:MC-LinY-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColCh1:MC-LinY-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColCh2:MC-LinY-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColCh2:MC-LinY-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColCh2:MC-LinY-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlYp-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlYp-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlYp-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlYm-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlYm-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlYm-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlZp-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlZp-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlZp-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlZm-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlZm-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl1:MC-SlZm-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlYp-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlYp-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlYp-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlYm-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlYm-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlYm-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlZp-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlZp-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlZp-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlZm-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlZm-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl2:MC-SlZm-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlYp-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlYp-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlYp-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlYm-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlYm-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlYm-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlZp-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlZp-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlZp-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlZm-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlZm-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-ColSl3:MC-SlZm-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinX-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinX-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinX-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinY-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinY-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinY-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-02:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-02:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-02:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-03:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-03:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-03:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-04:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-04:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-04:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-05:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-05:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtBS1:MC-LinZ-05:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtCar1:MC-LinX-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtCar1:MC-LinX-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "LOKI-DtCar1:MC-LinX-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  }
+}

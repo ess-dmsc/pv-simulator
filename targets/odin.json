@@ -1,0 +1,126 @@
+{
+  "SIM_odin:instrument:foc1:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:foc1:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:bpc1:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:bpc1:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:t0:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:t0:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:foc2:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:foc2:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:bpc2:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:foc3:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:foc3:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:foc4:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:foc4:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:foc5:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:foc5:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:source:current": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:source:energy": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:source:power": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:wfm1:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:wfm1:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:wfm1:transformations:translation1": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:wfm2:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:wfm2:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:wfm2:transformations:translation1": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:histogram_mode_detectors:orca:x_pixel_size": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:histogram_mode_detectors:orca:y_pixel_size": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:magnetic_guide_field:guide_current": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:slit1:x_gap": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:slit1:y_gap": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:slit2:x_gap": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_odin:instrument:slit2:y_gap": {
+    "target_value": null,
+    "std_dev": null
+  }
+}

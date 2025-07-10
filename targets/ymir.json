@@ -1,0 +1,70 @@
+{
+  "delay_source_chopper": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-ChpSy1:Chop-MIC-101:Spd_SP": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SETS:SE-BADC-001:SLOWDATA": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SETS:SE-BPTP-001:PTP_STATUS": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SpScn:MC-X-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SpScn:MC-Y-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SpScn:MC-Z-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SpScn:MC-Y-01:Mtr.VELO": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SpScn:MC-Z-01:Mtr.VELO": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SpScn:MC-X-01:Mtr.VELO": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SpScn:MC-Y-01:Mtr-RBV-TSE": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SpScn:MC-Z-01:Mtr-RBV-TSE": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SpScn:MC-X-01:Mtr-RBV-TSE": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:KRDG0": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:KRDG1": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SETP_S1": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SETP_S2": {
+    "target_value": null,
+    "std_dev": null
+  }
+}

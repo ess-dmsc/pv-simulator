@@ -1,0 +1,234 @@
+{
+  "TBL-DtCmn:PwrC-HVM-100:Ch00-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-100:Ch00-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-100:Ch01-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-100:Ch01-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-100:Ch02-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-100:Ch02-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-100:Ch03-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-100:Ch03-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-ChpSy1:Chop-BWC-101:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-ChpSy1:Chop-BWC-101:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-ChpSy1:Chop-BWC-101:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-ChpSy1:Chop-BWC-102:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-ChpSy1:Chop-BWC-102:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-ChpSy1:Chop-BWC-102:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-BM:NDet-CDTIBM-001:HighVoltage-R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-PinLif:MC-LinZ-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-PinLif:MC-LinZ-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-PinLin:MC-LinY-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-PinLin:MC-LinY-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-FilChg:MC-LinY-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-FilChg:MC-LinY-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-FilChg:MC-LinY-02:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-FilChg:MC-LinY-02:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-FilChg:MC-LinY-03:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-FilChg:MC-LinY-03:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_tbl:polarizer:transformations:translation1": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-101:Ch00-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-101:Ch00-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-101:Ch01-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-101:Ch01-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-101:Ch02-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-101:Ch02-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-101:Ch03-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-101:Ch03-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-102:Ch00-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-102:Ch00-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-102:Ch01-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-102:Ch01-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-102:Ch02-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-102:Ch02-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-102:Ch03-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-102:Ch03-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-103:Ch00-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-HVM-103:Ch00-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-LVM-105:Ch00-VMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:PwrC-LVM-105:Ch00-IMon": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCMOS:NDet-ImgInt-001:IntensifierGain-R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:Ctrl-EVR-001:DlyGen1Delay-RB": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtCmn:Ctrl-EVR-001:DlyGen1Width-RB": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-DtTPX:NDet-ImgInt-001:AO0": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-AttChg:MC-LinY-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-AttChg:MC-LinY-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-PinChg:MC-LinY-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-PinChg:MC-LinY-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-TBL:MC-Pos-303:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "TBL-TBL:MC-Pos-303:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_tbl:sample:transformations:SOM": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_tbl:sample:transformations:SOZ": {
+    "target_value": null,
+    "std_dev": null
+  }
+}
