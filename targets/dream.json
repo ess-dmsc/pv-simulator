@@ -1,0 +1,74 @@
+{
+  "SIM_dream:instrument:pulse_shaping_chopper2:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:pulse_shaping_chopper2:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:pulse_shaping_chopper1:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:pulse_shaping_chopper1:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:band_chopper:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:band_chopper:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:T0_chopper:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:T0_chopper:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:overlap_chopper:rotation_speed": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:overlap_chopper:delay": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:slit_a:x_gap": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:slit_a:y_gap": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:slit_b:x_gap": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:slit_b:y_gap": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:slit_c:x_gap": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:slit_c:y_gap": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:source:current": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "SIM_dream:instrument:polarizer:rate": {
+    "target_value": null,
+    "std_dev": null
+  }
+}

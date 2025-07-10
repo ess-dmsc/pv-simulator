@@ -1,0 +1,334 @@
+{
+  "BIFRO-ChpSy1:Chop-PSC-101:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy1:Chop-PSC-101:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy1:Chop-PSC-101:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy1:Chop-PSC-102:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy1:Chop-PSC-102:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy1:Chop-PSC-102:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy1:Chop-FOC-101:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy1:Chop-FOC-101:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy1:Chop-FOC-101:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy1:Chop-FOC-201:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy1:Chop-FOC-201:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy1:Chop-FOC-201:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy2:Chop-BWC-101:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy2:Chop-BWC-101:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy2:Chop-BWC-101:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy2:Chop-BWC-102:Spd_R": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy2:Chop-BWC-102:Spd_S": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-ChpSy2:Chop-BWC-102:TotDly": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl1:MC-SlYp-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl1:MC-SlYp-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl1:MC-SlYp-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl1:MC-SlYm-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl1:MC-SlYm-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl1:MC-SlYm-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl2:MC-SlYp-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl2:MC-SlYp-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl2:MC-SlYp-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl2:MC-SlYm-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl2:MC-SlYm-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl2:MC-SlYm-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl3:MC-SlYp-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl3:MC-SlYp-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl3:MC-SlYp-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl3:MC-SlYm-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl3:MC-SlYm-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DivSl3:MC-SlYm-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpRot:MC-RotZ-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpGon:MC-RotX-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpGon:MC-RotY-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpRot:MC-RotZ-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpRot:MC-RotZ-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpGon:MC-RotX-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpGon:MC-RotX-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpGon:MC-RotY-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpGon:MC-RotY-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DtCar:MC-RotZ-01:Mtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DtCar:MC-RotZ-01:Mtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-DtCar:MC-RotZ-01:Mtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlYp-01:PzMtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlYp-01:PzMtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlYp-01:PzMtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlYp-01:PzMtr-PosReadback": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlYm-01:PzMtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlYm-01:PzMtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlYm-01:PzMtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlYm-01:PzMtr-PosReadback": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlZp-01:PzMtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlZp-01:PzMtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlZp-01:PzMtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlZp-01:PzMtr-PosReadback": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlZm-01:PzMtr.RBV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlZm-01:PzMtr.VAL": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlZm-01:PzMtr.DMOV": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-SlZm-01:PzMtr-PosReadback": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-SpSl1:MC-LinX-01:PzMtr-PosReadback": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-AttChg:MC-Pne-01:ShtAuxBits07": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-AttChg:MC-Pne-02:ShtAuxBits07": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-AttChg:MC-Pne-03:ShtAuxBits07": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "BIFRO-InBm:MC-Pne-01:ShtAuxBits07": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:KRDG0": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:KRDG1": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:KRDG2": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:KRDG3": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:HTR2": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SRDG0": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SRDG1": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SRDG2": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SRDG3": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SETP_S1": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SETP_S2": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SETP_S3": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:SETP_S4": {
+    "target_value": null,
+    "std_dev": null
+  },
+  "YMIR-SEE:SE-LS336-004:HTR1": {
+    "target_value": null,
+    "std_dev": null
+  }
+}
